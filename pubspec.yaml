@@ -23,6 +23,7 @@ dependencies:
   syncfusion_flutter_charts: ^19.3.43
   quiver: ^3.0.1
   firebase_core: ^1.7.0
+  animated_background: ^2.0.0
 
 dev_dependencies:
   flutter_test:
@@ -35,4 +36,5 @@ flutter:
   assets:
     - assets/textfile.json
     - assets/bob_dylan.txt
+    - assets/eminem_lyrics.txt
     - assets/images/
