@@ -92,7 +92,7 @@ class _VerifyMailState extends State<VerifyMail> {
                                   MaterialPageRoute(
                                       builder: (context) => LoginPage()));
                             },
-                            child: Text('Submit'),
+                            child: Text('Submit1'),
                             style: ButtonStyle(
                               elevation: MaterialStateProperty.all<double>(20),
                               shadowColor: MaterialStateProperty.all<Color>(
